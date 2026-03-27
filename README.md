@@ -50,15 +50,15 @@ This project analyzes real-world clinical trial data to uncover trends in resear
 ---
 
 ## 📂 Project Structure
+```text
 clinical-trial-analysis/
-│
 ├── clinical-trial-analysis.ipynb
 ├── clinical_trials_trend.png
 ├── study_type_trend.png
 ├── top_conditions.png
 ├── trial_status_distribution.png
-├── README.md
-
+└── README.md
+```
 ---
 
 ## 🚀 How to Run
